@@ -1,4 +1,4 @@
-
+```
 <!-- 关键字，搜所引擎 SEO -->
 <meta http-equiv="keywords" content="关键字1,关键字2,..."> 
 <!-- 页面描述 -->
@@ -41,3 +41,4 @@ X-UA-Compatible：这是个是IE8的专用标记,用来指定IE8浏览器去模�
 <meta content="yes" name="apple-mobile-web-app-capable" />
 <!-- 改变顶部状态条的颜色 iphone私有的属性-->
 <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+```
