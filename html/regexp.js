@@ -43,4 +43,8 @@ var isIdCard = function(text) {
 var isBankCard = function(text) {
     return /^(\d{16}|\d{19})$/.test(text);
 }
+//验证小时分钟
+var isHourMinuse = function(text) {
+    return /^(([0-1]\d)|(2[0-4])):[0-5]\d$/.test(text);
+}
 ```
